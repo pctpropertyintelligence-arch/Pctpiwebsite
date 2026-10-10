@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pctpropertyintelligence.co.uk/sitemap.xml
